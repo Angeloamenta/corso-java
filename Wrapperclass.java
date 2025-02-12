@@ -15,7 +15,9 @@ public class Wrapperclass {
         // char carattere = 'A';
         // int numero = 5;
         // double virgola = 5.5;
+        // String testo = "Ciao";
         
+
 
 
 
